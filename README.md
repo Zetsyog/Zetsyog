@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zetsyog
+- 👀 I’m interested in embedded systems, compilers, computer architecture, os dev
+- 🌱 I’m currently doing a PhD on compilers
+- 📫 clement.rossetti@inria.fr
