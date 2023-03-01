@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Zetsyog
 - 👀 I’m interested in embedded systems, compilers, computer architecture, os dev
-- 🌱 I’m currently doing a PhD on compilers
+- 🌱 I’m currently doing a PhD on automatic loop optimisations entitled "Algebraic loop optimisations"
 - 📫 clement.rossetti@inria.fr
